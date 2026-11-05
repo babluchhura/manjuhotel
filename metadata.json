@@ -1,0 +1,6 @@
+{
+  "name": "Manju Hotel - Luxury Stay in Bangomunda, Odisha",
+  "description": "Experience comfort, hospitality, and luxury at Manju Hotel in Bangomunda, Odisha (767040). Featuring premium AC rooms, fine dining, online booking, and dedicated guest service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

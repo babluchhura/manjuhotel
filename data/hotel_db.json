@@ -1,0 +1,228 @@
+{
+  "hotelInfo": {
+    "name": "Manju Hotel",
+    "tagline": "Experience Comfort, Hospitality & Luxury",
+    "address": "Main Road, Bangomunda",
+    "city": "Bangomunda",
+    "state": "Odisha",
+    "pincode": "767040",
+    "country": "India",
+    "phone": "+91 9668612323",
+    "email": "yogeshchhura@gmail.com",
+    "whatsapp": "+919668612323",
+    "checkInTime": "12:00 PM",
+    "checkOutTime": "11:00 AM",
+    "aboutText": "Welcome to Manju Hotel, the premier destination for comfortable, luxurious, and hospitable accommodation in Bangomunda, Odisha. Strategically located with seamless accessibility, Manju Hotel combines traditional Odia warmth with modern hospitality amenities. Whether you are traveling for business, family vacations, cultural visits, or social events, we offer meticulously appointed air-conditioned rooms, fine dining flavors, high-speed Wi-Fi, and 24/7 dedicated service to make your stay memorable.",
+    "googleMapsUrl": "https://maps.google.com/?q=Bangomunda+Odisha+767040",
+    "announcement": "Special 10% discount on direct online room bookings. Free high-speed Wi-Fi and complimentary morning breakfast with premium stays."
+  },
+  "rooms": [
+    {
+      "id": "deluxe-ac",
+      "name": "Deluxe AC Room",
+      "category": "Deluxe",
+      "tagline": "Modern comfort designed for solo travelers & couples",
+      "pricePerNight": 1499,
+      "originalPrice": 1899,
+      "capacity": {
+        "adults": 2,
+        "children": 1
+      },
+      "bedType": "King Size Bed",
+      "roomSize": "280 sq ft",
+      "description": "Our Deluxe AC Room features a plush king-size bed, tranquil ambient lighting, premium bedding, and a sleek work desk. Ideal for business visitors and travelers seeking quiet comfort.",
+      "amenities": [
+        "High Efficiency Air Conditioning",
+        "High-Speed Free Wi-Fi",
+        "43\" Smart HD LED TV",
+        "24/7 Running Hot & Cold Water",
+        "Daily Housekeeping",
+        "Electric Kettle & Tea/Coffee Setup",
+        "Intercom & Room Service",
+        "Modern En-suite Bathroom"
+      ],
+      "features": [
+        "King Bed",
+        "City View",
+        "Free Breakfast",
+        "Work Desk"
+      ],
+      "image": "/src/assets/images/room_deluxe_double_1793871084976.jpg",
+      "galleryImages": [
+        "/src/assets/images/room_deluxe_double_1793871084976.jpg",
+        "/src/assets/images/hotel_lobby_lounge_1793871087240.jpg"
+      ],
+      "isAvailable": true,
+      "featured": true
+    },
+    {
+      "id": "super-deluxe-ac",
+      "name": "Super Deluxe AC Room",
+      "category": "Super Deluxe",
+      "tagline": "Elevated elegance with extra living space & premium furnishings",
+      "pricePerNight": 2199,
+      "originalPrice": 2699,
+      "capacity": {
+        "adults": 2,
+        "children": 2
+      },
+      "bedType": "California King Bed",
+      "roomSize": "360 sq ft",
+      "description": "Experience enhanced indulgence in our Super Deluxe room. Features custom mahogany furniture, relaxing seating armchairs, lavish bath fittings, and floor-to-ceiling drapery.",
+      "amenities": [
+        "Inverter AC Climate Control",
+        "Ultra High-Speed Wi-Fi",
+        "50\" Smart 4K TV with OTT",
+        "Mini Refrigerator",
+        "Plush Bathrobes & Toiletries",
+        "24/7 Hot Water Geyser",
+        "Express Laundry Service",
+        "Dedicated In-Room Dining"
+      ],
+      "features": [
+        "Super King Bed",
+        "Balcony View",
+        "Complimentary Breakfast",
+        "Lounge Armchairs"
+      ],
+      "image": "/src/assets/images/room_executive_suite_1793871087344.jpg",
+      "galleryImages": [
+        "/src/assets/images/room_executive_suite_1793871087344.jpg",
+        "/src/assets/images/hotel_exterior_hero_1793871084312.jpg"
+      ],
+      "isAvailable": true,
+      "featured": true
+    },
+    {
+      "id": "executive-suite",
+      "name": "Presidential Executive Suite",
+      "category": "Executive Suite",
+      "tagline": "The pinnacle of luxury with private lounge and VIP amenities",
+      "pricePerNight": 3299,
+      "originalPrice": 3999,
+      "capacity": {
+        "adults": 3,
+        "children": 2
+      },
+      "bedType": "Master Luxury King Bed",
+      "roomSize": "520 sq ft",
+      "description": "The crown jewel of Manju Hotel. A generous master bedroom seamlessly connected to an intimate drawing room lounge, designer sofa set, premium bathroom with glass shower cubicle, and dedicated concierge.",
+      "amenities": [
+        "Dual Inverter AC Zones",
+        "Ultra-Fast Dedicated Wi-Fi",
+        "55\" Ultra HD Smart TV",
+        "Separate Living Lounge & Sofa",
+        "Executive Workstation",
+        "Mini Bar & Refreshment Bar",
+        "Luxury Herbal Toiletries",
+        "Priority Room Service & Check-In"
+      ],
+      "features": [
+        "Separate Living Area",
+        "Luxury King Bed",
+        "Complimentary Breakfast & Hi-Tea",
+        "VIP Concierge"
+      ],
+      "image": "/src/assets/images/room_executive_suite_1793871087344.jpg",
+      "galleryImages": [
+        "/src/assets/images/room_executive_suite_1793871087344.jpg",
+        "/src/assets/images/hotel_lobby_lounge_1793871087240.jpg",
+        "/src/assets/images/restaurant_dining_1793871086578.jpg"
+      ],
+      "isAvailable": true,
+      "featured": true
+    },
+    {
+      "id": "family-ac-suite",
+      "name": "Family AC Suite",
+      "category": "Family Suite",
+      "tagline": "Spacious multi-bed haven designed for families and group stays",
+      "pricePerNight": 2799,
+      "originalPrice": 3499,
+      "capacity": {
+        "adults": 4,
+        "children": 2
+      },
+      "bedType": "Two Double Beds",
+      "roomSize": "460 sq ft",
+      "description": "Tailored specifically for families visiting Western Odisha. Two comfortable beds, ample storage, luggage racks, dining table space, and round-the-clock room service to keep everyone smiling.",
+      "amenities": [
+        "Twin High-Capacity ACs",
+        "High-Speed Wi-Fi",
+        "48\" Smart LED TV",
+        "Multiple Bed Setup",
+        "Large Wardrobes & Luggage Bench",
+        "Round-the-Clock Hot Water",
+        "Kid-Friendly Dining Options",
+        "24/7 Front Desk Assistance"
+      ],
+      "features": [
+        "2 Large Beds",
+        "Spacious Layout",
+        "Family Dining Table",
+        "Complimentary Breakfast"
+      ],
+      "image": "/src/assets/images/room_deluxe_double_1793871084976.jpg",
+      "galleryImages": [
+        "/src/assets/images/room_deluxe_double_1793871084976.jpg",
+        "/src/assets/images/restaurant_dining_1793871086578.jpg"
+      ],
+      "isAvailable": true,
+      "featured": false
+    }
+  ],
+  "bookings": [
+    {
+      "id": "MH-2026-7841",
+      "customerName": "Sanjay Kumar Hota",
+      "email": "sanjay.hota@example.com",
+      "phone": "+91 9861023456",
+      "checkIn": "2026-11-10",
+      "checkOut": "2026-11-12",
+      "guests": {
+        "adults": 2,
+        "children": 0
+      },
+      "roomId": "super-deluxe-ac",
+      "roomName": "Super Deluxe AC Room",
+      "roomPrice": 2199,
+      "totalNights": 2,
+      "totalAmount": 4398,
+      "specialRequests": "Late check-in around 8 PM. Please arrange extra tea bags.",
+      "status": "Confirmed",
+      "createdAt": "2026-11-04T09:41:08.632Z",
+      "paymentMethod": "Pay at Hotel (Cash / UPI / Card)"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1793871677608_d05ax",
+      "fullName": "Ramesh Kumar Dash",
+      "email": "ramesh.dash@example.com",
+      "phone": "+91 9437123456",
+      "subject": "Family AC Room Booking for 3 Nights",
+      "message": "Hello Mr. Yogesh, we will be visiting Bangomunda next week for a wedding. Please let us know if 2 Deluxe AC rooms are available from Nov 15th to Nov 18th.",
+      "createdAt": "2026-11-05T09:41:17.608Z",
+      "status": "new",
+      "notificationSent": true,
+      "adminEmail": "yogeshchhura@gmail.com",
+      "dispatchId": "DISP-MW3CVP2F"
+    },
+    {
+      "id": "msg_init_1",
+      "fullName": "Prashant Sahu",
+      "email": "prashant.sahu@example.com",
+      "phone": "+91 9437012345",
+      "subject": "Banquet Hall & Group Room Booking for Marriage",
+      "message": "Hello Manju Hotel team, we are planning a family wedding in Bangomunda in December. We would like to inquire about booking 8 AC rooms for 3 days along with breakfast and dinner catering. Kindly share the group package details.",
+      "createdAt": "2026-11-04T21:41:08.632Z",
+      "status": "new",
+      "notificationSent": true,
+      "adminEmail": "yogeshchhura@gmail.com",
+      "dispatchId": "DISP-1793870001"
+    }
+  ],
+  "menu": [],
+  "gallery": [],
+  "testimonials": []
+}
